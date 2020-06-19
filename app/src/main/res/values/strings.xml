@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FinalTesoem</string>
+    <string name="nombre">Ingresa tu nombre</string>
+    <string name="Matricula">Matricula</string>
+    <string name="correo">Correo</string>
+    <string name="calificacion">Promedio Final</string>
+    <string name="titulo">Programa final Tesoem</string>
+    <string name="todo">TODO</string>
+    <string name="tjason">Jason</string>
+    <string name="rjson">Resultado Json</string>
+    <string name="bjson">Convierte a Json</string>
+    <string name="bclase">Convierte a Clase</string>
+    <string name="titulo2">Proyecto 1</string>
+    <string name="Creo">Luna Rivera Ricardo 2020</string>
+</resources>
